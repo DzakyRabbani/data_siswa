@@ -1,0 +1,8 @@
+Project Point Of Sale By Dzaky Rabbani // RPL XII-3
+
+              username     ;     password
+Admin   =    adminpointofsale ; adminpointofsale
+
+kasir   =   kasirpointofsale ; kasirpointofsale
+
+Manager = managerpointofsale ; managerpointofsale 
